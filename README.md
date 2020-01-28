@@ -33,7 +33,15 @@ Home of Free football ⚽️ database & schema for use in any (programming)
 
 👉 [Serie A teams All played players](https://github.com/NazeemNato/The-Football-Data/tree/master/Serie%20A%20teams%20All%20played%20players) 🇮🇹
 
-👉 [UEFA  clubs all players]() 🇪🇺
+👉 [UEFA clubs all played players (1 - F)](https://github.com/NazeemNato/The-Football-Data/tree/master/UEFA%20clubs%20all%20played%20players%20(1%20-%20F)) 🇪🇺
+
+👉 [UEFA clubs all played players (F - M)](https://github.com/NazeemNato/The-Football-Data/tree/master/UEFA%20clubs%20all%20played%20players%20(F%20-%20M)) 🇪🇺
+
+👉 [UEFA clubs all played players (M - S)](https://github.com/NazeemNato/The-Football-Data/tree/master/UEFA%20clubs%20all%20played%20players%20(M%20-%20%20S)) 🇪🇺
+
+👉 [UEFA clubs all played players (S - Z)](https://github.com/NazeemNato/The-Football-Data/tree/master/UEFA%20%20clubs%20all%20played%20players%20(S%20-%20Z)) 🇪🇺
+
+👉 [Conmebol Clubs All players](https://github.com/NazeemNato/The-Football-Data/tree/master/Conmebol%20Clubs%20All%20players)
 
 #
 
