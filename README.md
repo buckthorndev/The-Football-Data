@@ -1,9 +1,56 @@
-# football-data-csv
-collection of football data from top 5 leagues 
+# The `Football` Data
+Home of Free football database & schema for use in any (programming)
 
-###Note
-Expensive value is like 200 ,150 means 200M ,150M 
+#
+
+### Current `databse`
+
+👉 [25 Expensive](https://github.com/NazeemNato/The-Football-Data/tree/master/25%20Expensive) 💰
+
+👉 [Bundesliga (full table) 1963-2018](https://github.com/NazeemNato/The-Football-Data/tree/master/Bundesliga%20(full%20table)%201963-2018) 
+
+👉 [Bundesliga 2019 Squad](https://github.com/NazeemNato/The-Football-Data/tree/master/Bundesliga%202019%20Squad)
+
+👉 [LaLiga (full table) 1930-2018](https://github.com/NazeemNato/The-Football-Data/tree/master/LaLiga%20(full%20table)%201930-2018)
+
+👉 [LaLiga 2019 Squad](https://github.com/NazeemNato/The-Football-Data/tree/master/LaLiga%202019%20Squad)
+
+
+👉 [Ligue-1 (full-table) 1980-2018](https://github.com/NazeemNato/The-Football-Data/tree/master/Ligue-1%20(full-table)%201980-2018)
+
+
+👉 [Ligue-1 2019 Squad](https://github.com/NazeemNato/The-Football-Data/tree/master/Ligue-1%202019%20%20Squad)
+
+👉 [Premier-League (full table) 1992-2018](https://github.com/NazeemNato/The-Football-Data/tree/master/Premier-League%20(full%20table)%201992-2018)
+
+👉 [Premier-League 2019 Squad](https://github.com/NazeemNato/The-Football-Data/tree/master/Premier-League%202019%20Squad)
+
+👉 [Serie A (full table) 1930-2018](https://github.com/NazeemNato/The-Football-Data/tree/master/Serie%20A%20(full%20table)%201930-2018)
+
+👉 [Serie A (table) 1986-2018](https://github.com/NazeemNato/The-Football-Data/tree/master/Serie%20A%20(table)%201986-2018)
+
+👉 [Serie A 2019 Squad](https://github.com/NazeemNato/The-Football-Data/tree/master/Serie%20A%202019%20%20Squad)
+
+👉 [Serie A teams All played players](https://github.com/NazeemNato/The-Football-Data/tree/master/Serie%20A%20teams%20All%20played%20players)
+
+👉 [UEFA  clubs all players]()
+
+#
 
 ## Credit
-[Lega Serie A ](http://www.legaseriea.it/en/serie-a/league-table/2010-11) .
-[Transfermarkt](https://www.transfermarkt.com/marktwertetop/wertvollstespieler)
+
+❤️ [Lega Serie A ](http://www.legaseriea.it/en/serie-a/league-table/2010-11)
+
+❤️ [Transfermarkt](https://www.transfermarkt.com/marktwertetop/wertvollstespieler)
+
+❤️ [worldfootball](https://www.worldfootball.net)
+
+#
+### Author
+
+🙄 By Muhammed `Nazeem`
+
+📧 [Gmail](mailto:nazeemnob17@gmail.com)
+
+👔 [Linkedin](https://www.linkedin.com/in/muhammad-nazeem-5ab092180/)
+
