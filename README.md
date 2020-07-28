@@ -56,5 +56,5 @@ Home of Free football ⚽️ database & schema for use in any (programming)
 #
 ## Created by 👦
 
-+ [TWitter](https://twitter.com/buckthorndev)
++ [Twitter](https://twitter.com/buckthorndev)
 
