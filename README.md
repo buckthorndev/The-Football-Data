@@ -54,11 +54,7 @@ Home of Free football ⚽️ database & schema for use in any (programming)
 ❤️ [worldfootball](https://www.worldfootball.net)
 
 #
-## Author 👦
+## Created by 👦
 
-🙄 By Muhammed `Nazeem`
-
-📧 [Gmail](mailto:nazeemnob17@gmail.com)
-
-👔 [Linkedin](https://www.linkedin.com/in/muhammad-nazeem-5ab092180/)
++ [TWitter](https://twitter.com/buckthorndev)
 
